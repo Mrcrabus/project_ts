@@ -1,0 +1,4 @@
+.login__wrapper {
+    height: calc(100vh - 64px);
+    border: 1px solid darkslategray;
+}
